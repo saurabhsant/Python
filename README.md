@@ -1,2 +1,2 @@
-# Python
-My various Machine Learning projects in python using Jupyter Notebook
+# Data Science
+My various Machine Learning projects
